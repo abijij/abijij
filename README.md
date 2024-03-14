@@ -43,12 +43,6 @@ Soy un Desarrollador Full Stack en POSDEV Solutions con experiencia desde 2022 h
 - MVVM
 - MVC
 
-## Estadísticas
-
-<p>
-  <a href="#"><img src="https://github-readme-stats-nine-ashen.vercel.app/api?username=[TuNombreDeUsuario]&show_icons=true&count_private=true&theme=dark" width="500"></a>
-</p>
-
 ## Últimas Actividades
 
 <!--START_SECTION:activity-->
@@ -57,16 +51,9 @@ Soy un Desarrollador Full Stack en POSDEV Solutions con experiencia desde 2022 h
 
 ## Conéctate conmigo :mailbox_with_no_mail:
 
-<a href="[TuEnlaceDeInstagram]" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="[TuEnlaceDeFacebook]" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="[TuEnlaceDeSpotify]" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
-<a href="[TuSitioWebPersonal]" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
-<a href="[TuEnlaceDeLinkedin]" target="_blank">
+<a href="https://www.linkedin.com/in/edgar-gutierrez-casa%C3%B1as-19b342272/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="[TuEnlaceDeTwitter]" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />  
- </a>&nbsp;&nbsp;
 <a href="[TuCorreoElectronico]">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />  
  </a>&nbsp;&nbsp;
