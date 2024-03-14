@@ -54,7 +54,7 @@ Soy un Desarrollador Full Stack en POSDEV Solutions con experiencia desde 2022 h
 <a href="https://www.linkedin.com/in/edgar-gutierrez-casa%C3%B1as-19b342272/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="[TuCorreoElectronico]">
+<a href="edgar.abijij24@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />  
  </a>&nbsp;&nbsp;
 
