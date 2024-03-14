@@ -1,11 +1,11 @@
-# ¡Hola! Soy [Tu Nombre], Desarrollador Full Stack en POSDEV Solutions 👋
+# ¡Hola! Soy Edgar Gutierrez Casañas, Desarrollador Full Stack  👋
 
-:computer: Desarrollador Frontend (y un poco de Backend)
+:computer: Desarrollador Frontend y  Backend
 :mexico: Vivendo en México
 
 ## Acerca de mí
 
-Soy un Desarrollador Full Stack en POSDEV Solutions con experiencia desde 2022 hasta la actualidad. He liderado proyectos clave, incluyendo el desarrollo de una aplicación móvil para una farmacia, una tienda en línea, y la implementación de soluciones para terminales de pago. Mi enfoque se centra en la eficiencia operativa y la mejora continua. Además, he contribuido al diseño y desarrollo de microservicios, implementando las mejores prácticas y estrategias de seguridad.
+Soy un Desarrollador Full Stack con experiencia desde 2022 hasta la actualidad. He liderado proyectos clave, incluyendo el desarrollo de una aplicación móvil para una farmacia, una tienda en línea, y la implementación de soluciones para terminales de pago. Mi enfoque se centra en la eficiencia operativa y la mejora continua. Además, he contribuido al diseño y desarrollo de microservicios, implementando las mejores prácticas y estrategias de seguridad.
 
 ## Mis habilidades incluyen:
 
